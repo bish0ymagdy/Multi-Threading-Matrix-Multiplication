@@ -55,7 +55,8 @@ Your programs should do the following:
         Output files: 
             c_per_matrix.txt
 
-    OR
+    OR 
+    
         Example:
             ./matMultp 1
         Input files: 
