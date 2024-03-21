@@ -1,4 +1,4 @@
-# Multi-Threading-Matrix-Multiplication
+# Matrix Multiplication (Multi-Threading)
 
 ![Matrix Multiplication](MatMul.png)
 
